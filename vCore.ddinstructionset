@@ -1,0 +1,11 @@
+#   |Core Vidrio (DDIS v1.0) (2019.07.30);
+disp|Core Vidrio;
+tex |Russian Bicycles          |  0| 60;
+int ;
+rex |Side Leg Raises           |2 × 5 / side (20);
+rex |Alligator Push-Ups        |16 (girls) 20 (boys);
+rex |One-Legged Hip Bridges    |2 × 10 / side (40);
+rex |Side Crunches             |2 × 15/ side (60);
+tex |Calf Holds (left)         | 60|105;
+tex |Calf Holds (right)        |105|150;
+

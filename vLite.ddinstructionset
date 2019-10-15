@@ -1,0 +1,18 @@
+disp|Vidrio Lite                 ;
+tex |V-Ups                       |   0|  60;
+tex |Break                       |  60| 120;
+tex |Two-Foot Jumps              | 120| 180;
+tex |Break                       | 180| 240;
+tex |Side Bridge Crunches (Left) | 240| 270;
+tex |Side Bridge Crunches (Right)| 270| 300;
+tex |Break                       | 300| 360;
+tex |Stadium (Single Step)       | 360| 480;
+tex |Break                       | 480| 540;
+tex |Stadium (Every Other)       | 540| 660;
+tex |Break                       | 660| 720;
+tex |Med-Ball Push-Ups           | 720| 780;
+tex |Break                       | 780| 840;
+tex |Sprint Hurdles              | 840| 900;
+tex |Break                       | 900| 960;
+tex |Band Clams (Left)           | 960|1020;
+tex |Band Clams (Right)          |1020|1080;

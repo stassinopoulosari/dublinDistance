@@ -1,0 +1,98 @@
+#   |Monday Strength 2019.09.30;
+disp|Monday Strength           ;
+rex |Lateral Squatted Walk     |          (knee) 10/side;
+rex |Monster Walks             |          (knee) 10/side;
+rex |Upright Lateral Walks     |         (ankle) 10/side;
+rex |Upright Walk              |         (ankle) 10/side;
+rex |Clamshells                |          (knee) 25/side;
+rex |Glute Bridge              |               (knee) 25;
+rex |Foot-Ankle                |    15 dorsi, 15 plantar;
+tex |Alligator Push-Ups        |                   0| 60;
+tex |Break                     |                  60|120;
+tex |Ropes: Regular            |                 120|180;
+tex |Break                     |                 180|240;
+tex |Ropes: Together           |                 240|300;
+tex |Break                     |                 300|360;
+tex |Ropes: Criss-Cross        |                 360|420;
+tex |Break                     |                 420|480;
+tex |Ropes: Butterfly          |                 480|540;
+tex |Break                     |                 540|600;
+tex |Ropes: Regular            |                 600|660;
+int ;
+rex |LAC: 0º-45º               |                      15;
+rex |LAC: 45º-90º              |                      15;
+rex |LAC: Scissors             |                      15;
+rex |LAC: Up-and-Downs         |                      15;
+tex |Russian Twists            |                 660|720;
+tex |Break                     |                 720|780;
+tex |Reverse Plank             |                 780|840;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

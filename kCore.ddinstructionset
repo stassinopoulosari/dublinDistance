@@ -1,0 +1,16 @@
+#   |Core Kleinow (DDIS v1.0) (2019.07.30);
+disp|Core Kleinow;
+tex |Bridges: Front          |  0| 60;
+tex |Bridges: Left Side      | 60|120;
+tex |Bridges: Right Side     |120|180;
+tex |Bridges: Reverse        |180|240;
+int ;
+rex |Fire Hydrants           |2 × 10 / side (40);
+tex |Ropes                   |240|300;
+int ;
+rex |Russian Twists          |35 / side (70);
+tex |Ropes (Together)        |300|360;
+rex |LAC: 0º-45º             |15;
+rex |LAC: 45º-90º            |15;
+rex |LAC: Scissors           |15;
+rex |LAC: Up-And-Downs       |15;

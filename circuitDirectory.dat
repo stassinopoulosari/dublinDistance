@@ -1,0 +1,13 @@
+lrCore|Long Run Core Circuit;
+kCore|Kleinow Core Circuit;
+vCore|Vidrio Core Circuit;
+ubCore|Upper Body Core,
+kStrength|Kleinow Strength Circuit;
+vStrength|Vidrio Strength Circuit;
+wStrength|Williams Strength Circuit;
+rCircuit|Recovery Run Circuit;
+mStrength|Monday Strength Circuit;
+fStrength|Friday Strength Circuit,
+kLite|Kleinow Strength Circuit Lite;
+vLite|Vidrio Strength Circuit Lite;
+fLCircuit|Friday Strength Circuit Lite
